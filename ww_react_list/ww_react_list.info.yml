@@ -1,0 +1,7 @@
+name: 'React App List'
+type: module
+core_version_requirement: ^9
+description: 'Basic set up of a react app.'
+package: 'WebWash Examples'
+dependencies:
+  - drupal:jsonapi

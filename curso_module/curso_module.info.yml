@@ -1,0 +1,9 @@
+name: 'Curso module'
+type: module
+core_version_requirement: ^9
+
+description: 'Modulo para el curso.'
+version: 1.0.0
+package: 'Curso'
+dependencies:
+  - drupal:node

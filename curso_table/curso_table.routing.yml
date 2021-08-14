@@ -1,0 +1,6 @@
+curso_table.ruta_table:
+  path: '/curso/table'
+  defaults:
+    _controller: '\Drupal\curso_table\Controller\TableController::table'
+  requirements:
+    _permission: 'curso access table'

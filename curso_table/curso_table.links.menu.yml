@@ -1,0 +1,5 @@
+curso_table.ruta_table:
+  title: 'Table'
+  description: 'Table example curso'
+  route_name: curso_table.ruta_table
+  menu_name: 'main'

@@ -1,0 +1,6 @@
+curso_module.curso_form:
+  title: 'Formulario'
+  description: 'Formulario del curso de Drupal 9'
+  route_name: curso_module.curso_form
+  weight: 100
+  menu_name: 'main'
